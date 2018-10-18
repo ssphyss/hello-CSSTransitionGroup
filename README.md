@@ -1,1 +1,1 @@
-## React hello-CSSTransitionGroup
+## React CSSTransitionGroup
