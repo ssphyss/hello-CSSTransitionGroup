@@ -1,4 +1,4 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import TodoList from './TodoList';
-ReactDOM.render(<TodoList />, document.getElementById('root'));
+import CSSTransitionGroup from './components/CSSTransitionGroup/CSSTransitionGroup';
+ReactDOM.render(<CSSTransitionGroup />, document.getElementById('root'));
